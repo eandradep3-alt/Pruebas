@@ -1,0 +1,6 @@
+ID_Cliente,Nombre_Completo,Email,Telefono,Ciudad,Estatus,Fecha_Registro,Tipo_Cliente,Genero,Fecha_Nacimiento,Ultima_Compra,Notas
+C001,Ana Lopez,analopez1@gmail.com,0998765432,Quito,Activo,2023-05-12,VIP,F,1990-03-15,2023-10-05,Prefiere contacto por email
+C002,Roberto Sanchez,robersanchez@gmail.com,0987654321,Guayaquil,Inactivo,2022-11-03,Regular,M,1985-07-22,2023-08-15,Interesado en promociones
+C003,Maria Perez,mariperez@gmail.com,0991234567,Cuenca,Activo,2023-02-20,Premium,F,1992-01-30,2023-10-04,-
+C004,Luis Gomez,lgomez@gmail.com,0981122334,Quito,Activo,2023-07-01,Regular,M,1988-05-10,2023-10-06,-
+C005,Carla Fernández,carlaf@gmail.com,0993344556,Guayaquil,Activo,2023-08-15,VIP,F,1995-09-12,2023-10-07,Prefiere atención personalizada
